@@ -1,2 +1,2 @@
 # CF-IBAN-Validator
-Validiert eine der Funktion gegebene IBAN gemäß ISO 7064 in ColdFusion
+validates a to the function given IBAN in standard ISO 7064; written in ColdFusion
