@@ -1,6 +1,6 @@
 # CF-IBAN-Validator
 
-validates a to the function given IBAN in standard ISO 7064; written in ColdFusion.
+validates a to the function given IBAN according to ISO 7064; written in ColdFusion.
 - returns true or false
 - cuts anything that's not alphanumeric
 - should work on IBANs from every country
